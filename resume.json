@@ -1,0 +1,49 @@
+{
+  "Contact Information": {
+    "Name": "AKUL MATHUR",
+    "education_level": "B.Tech.- Computer Science & Engineering",
+    "Phone": "+91-8955258738",
+    "Email": "aa5380@srmist.edu.in",
+    "Address": "Jaipur, Rajasthan, India - 302018"
+  },
+  "Brief Summary": "A hard working college enthusiast with a deep passion towards software development. My skill sets include languages such as Python,
+Java, Javascript and CSS. My technical acumen, combined with problem solving abilities and a passion for innovation, positions me as
+a promising candidate for carrer the in tech industry."
+  "Key Expertise":{
+    "Java",
+    "Python",
+    "C++",
+    "SQL",
+    "Sales & Marketing", 
+    "Analytical Skills", 
+    "Data Structures", 
+    "Communication Skills", 
+    "OOPs",
+    "Network Security", 
+    "DBMS", 
+    "Computer Networking", 
+    "Operating Systems"
+  },
+  "Education": [
+    {
+      "Institution": "SRM Institute of Science & Technology, Kattankulathur",
+      "duration": "2021 - 2025",
+      "Degree": "B.Tech. - Computer Science & Engineering",
+      "CGPA": "8.25 / 10"
+    },
+    {
+      "Institution": "St. Joseph Convent School, Jaipur",
+      "duration": "2021",
+      "Degree": "12th",
+      "Board": "CBSE",
+      "Percentage": "77.80 / 100"
+    },
+    {
+      "Institution": "R.A.N Public School, Rudrapur",
+      "duration": "2019",
+      "Degree": "10th",
+      "Board": "CBSE",
+      "Percentage": "87.30 / 100"
+    },
+  ],
+  

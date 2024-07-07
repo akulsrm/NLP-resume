@@ -8,7 +8,7 @@
   },
   "Brief Summary": "A hard working college enthusiast with a deep passion towards software development. My skill sets include languages such as Python,
 Java, Javascript and CSS. My technical acumen, combined with problem solving abilities and a passion for innovation, positions me as
-a promising candidate for carrer the in tech industry."
+a promising candidate for carrer the in tech industry.",
   "Key Expertise":{
     "Java",
     "Python",
@@ -52,9 +52,8 @@ a promising candidate for carrer the in tech industry."
     "Duration": "21 Sep, 2023  -  04 Jan, 2024",
     "Key Skills": "Python", "SQL" ,
     "Summary": "A student base management system is a software application designed to manage the information of students in an educational
-institution.
-The system typically includes a database that stores information about each student, including personal details, academic records,
-attendance, and other relevant information."
+institution. The system typically includes a database that stores information about each student, including personal details, academic records,
+attendance, and other relevant information.",
     },
     {
     "Project Name":"Network Designing for Airport - Computer Communication",

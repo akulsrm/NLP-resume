@@ -46,4 +46,41 @@ a promising candidate for carrer the in tech industry."
       "Percentage": "87.30 / 100"
     },
   ],
+  "PROJECTS": [
+    {
+    "Project Name":"Student Management System",
+    "Duration": "21 Sep, 2023  -  04 Jan, 2024",
+    "Key Skills": "Python", "SQL" ,
+    "Summary": "A student base management system is a software application designed to manage the information of students in an educational
+institution.
+The system typically includes a database that stores information about each student, including personal details, academic records,
+attendance, and other relevant information."
+    },
+    {
+    "Project Name":"Network Designing for Airport - Computer Communication",
+    "Duration": "01 Feb, 2023  -  31 May, 2023",
+    "Key Skills": "Computer Communication",
+    "Summary": "The project has been provided with different utilities to introduce a network with a highsecurity level for the airport. These utilities are
+hardware firewalls, an IP access control list, Mac address port security, a domain server and s proxy server."
+    },
+  ]
+ "ASSESSMENTS / CERTIFICATIONS": [
+  {
+  "Name": "AWS Academy Cloud Foundations" ,
+  "Key Skills": "Cloud Computing" ,
+  },
+  {
+  "Name": "AWS Academy Machine Learning Foundations" ,
+  "Key Skills": "Machine Learning" ,
+  },
+  {
+  "Name": "Introduction to Packet Tracer" ,
+  "Key Skills": "Computer Communication", "Networking" ,
+  },
+  {
+  "Name": "Oracle Certified Foundations Associate" ,
+  "Key Skills": "Cloud Computing" ,
+  },
+ ]  
+}
   
